@@ -1,47 +1,84 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <opml version="2.0">
-  <head>
-    <dateCreated>Fri, 22 May 2020 11:58:16 GMT</dateCreated>
-    <docs />
-  </head>
-  <body>
-    <outline type="rss" title="端傳媒 Initium Media" xmlUrl="http://feeds.initium.news/theinitium" />
-    <outline type="rss" title="大破进击" xmlUrl="https://jesor.me/feed.xml" />
-    <outline type="rss" title="知乎每日精选" xmlUrl="https://www.zhihu.com/rss" />
-    <outline type="rss" title="少数派" xmlUrl="http://sspai.com/feed" />
-    <outline type="rss" title="极客公园" xmlUrl="http://www.geekpark.net/rss" />
-    <outline type="rss" title="爱范儿" xmlUrl="http://www.ifanr.com/feed" />
-    <outline type="rss" title="数字尾巴" xmlUrl="http://www.dgtle.com/rss/dgtle.xml" />
-    <outline type="rss" title="好奇心日报" xmlUrl="http://www.qdaily.com/feed.xml" />
-    <outline type="rss" title="36氪" xmlUrl="https://36kr.com/feed" />
-    <outline type="rss" title="摄影世界摄影世界" xmlUrl="https://www.photoworld.com.cn/feed" />
-    <outline type="rss" title="FreeBuf互联网安全新媒体平台" xmlUrl="https://www.freebuf.com/feed" />
-    <outline type="rss" title="运营派" xmlUrl="https://www.yunyingpai.com/feed" />
-    <outline type="rss" title="极客公园 - 资讯" xmlUrl="https://rsshub.app/geekpark/breakingnews" />
-    <outline type="rss" title="纽约时报中文网 - 中英对照版" xmlUrl="https://rsshub.app/nytimes/dual" />
-    <outline type="rss" title="日本社会-朝日新聞中文网" xmlUrl="https://rsshub.app/asahichinese-j/society" />
-    <outline type="rss" title="人民网—观点—人民网评" xmlUrl="https://rsshub.app/people/opinion/223228" />
-    <outline type="rss" title="BBC News 中文网" xmlUrl="https://rsshub.app/bbc/chinese" />
-    <outline type="rss" title="《联合早报》-中港台-即时" xmlUrl="https://rsshub.app/zaobao/realtime/china" />
-    <outline type="rss" title="HelloGitHub 月刊" xmlUrl="https://hellogithub.com/rss" />
-    <outline type="rss" title="虎嗅" xmlUrl="https://rss.huxiu.com/" />
-    <outline type="rss" title="孤岛客" xmlUrl="http://www.huangjiwei.com/blog/?feed=rss2" />
-    <outline type="rss" title="酷 壳 – CoolShell" xmlUrl="https://coolshell.cn/feed" />
-    <outline type="rss" title="PingWest品玩" xmlUrl="http://www.pingwest.com/feed" />
-    <outline type="rss" title="硅谷洞察 资讯" xmlUrl="https://posts.careerengine.us/author/5c9ec593dc003466082ab43a/rss" />
-    <outline type="rss" title="钛媒体：引领未来商业与生活新知" xmlUrl="https://m.tmtpost.com/rss" />
-    <outline type="rss" title="DoNews - 首页" xmlUrl="https://rsshub.app/donews" />
-    <outline type="rss" title="新闻 - 共同网" xmlUrl="https://china.kyodonews.net/rss/news.xml" />
-    <outline type="rss" title="路透: 财经报道" xmlUrl="https://cn.reuters.com/rssFeed/cnBizNews" />
-    <outline type="rss" title="全球深度报道网" xmlUrl="http://cn.gijn.org/feed/" />
-    <outline type="rss" title="Engadget Simplified Chinese Summary RSS" xmlUrl="https://rsshub.app/engadget-cn" />
-    <outline type="rss" title="精读-ZAKER精读新闻" xmlUrl="https://rsshub.app/zaker/focusread" />
-    <outline type="rss" title="观察者-首页新闻" xmlUrl="https://rsshub.app/guanchazhe/index/all" />
-    <outline type="rss" title="最新添加 - 后续" xmlUrl="https://rsshub.app/houxu/lives/new" />
-    <outline type="rss" title="品途商业评论-推荐" xmlUrl="https://rsshub.app/pintu360/0" />
-    <outline type="rss" title="热门文章 - 人人都是产品经理" xmlUrl="https://rsshub.app/woshipm/popular" />
-    <outline type="rss" title="科技周刊-推酷&#xA;    " xmlUrl="https://rsshub.app/tuicool/mags/tech" />
-    <outline type="rss" title="四火的唠叨" xmlUrl="https://www.raychase.net/feed" />
-    <outline type="rss" title="可能吧" xmlUrl="http://feeds.kenengba.com/kenengbarss" />
-  </body>
+<head>
+<title>Feeds</title>
+</head>
+<body>
+<outline title="其他" text="其他">
+<outline text="基本読書" htmlUrl="https://huyukiitoichi.hatenadiary.jp/" type="rss" title="基本読書" xmlUrl="http://huyukiitoichi.hatenadiary.jp/feed" />
+<outline text="摄影世界摄影世界" title="摄影世界摄影世界" htmlUrl="https://www.photoworld.com.cn" type="rss" xmlUrl="https://www.photoworld.com.cn/feed" />
+<outline type="rss" text="海淘频道&gt;&gt;什么值得买" title="海淘频道&gt;&gt;什么值得买" xmlUrl="https://haitao.smzdm.com/feed" htmlUrl="http://haitao.smzdm.com/" />
+<outline type="rss" text="中国银行外汇牌价" htmlUrl="http://www.boc.cn/sourcedb/whpj/" xmlUrl="https://rsshub.app/boc/whpj/zs?filter_title=%E6%97%A5%E5%85%83" title="中国银行外汇牌价" />
+<outline text="青空文庫新着リスト" htmlUrl="https://www.aozora.gr.jp/index_pages/whatsnew1.html" title="青空文庫新着リスト" xmlUrl="https://rsshub.app/aozora/newbook/10" type="rss" />
+<outline xmlUrl="https://www.waerfa.com/feed" type="rss" title="Mac玩儿法" text="Mac玩儿法" htmlUrl="https://www.waerfa.com" />
+<outline type="rss" text="精品MAC应用分享" xmlUrl="https://xclient.info/feed/" title="精品MAC应用分享" htmlUrl="https://xclient.info/" />
+<outline text="小武爸爸" htmlUrl="http://www.tuixiu40.com" xmlUrl="http://www.tuixiu40.com/feed" type="rss" title="小武爸爸" />
+<outline type="rss" text="左岸读书" htmlUrl="http://www.zreading.cn" xmlUrl="http://www.zreading.cn/feed" title="左岸读书" />
+<outline type="rss" text="日本文化物語" htmlUrl="https://m-miya.net/blog" xmlUrl="https://m-miya.net/blog/feed" title="日本文化物語" />
+<outline title="FOTOMEN" text="FOTOMEN" htmlUrl="https://fotomen.cn" type="rss" xmlUrl="https://fotomen.cn/feed/" />
+</outline>
+<outline text="新闻" title="新闻">
+<outline type="rss" htmlUrl="https://www.yunyingpai.com" xmlUrl="https://www.yunyingpai.com/feed" text="运营派" title="运营派" />
+<outline htmlUrl="https://china.kyodonews.net/" xmlUrl="https://china.kyodonews.net/rss/news.xml" title="新闻 - 共同网" type="rss" text="新闻 - 共同网" />
+<outline type="rss" htmlUrl="https://www3.nhk.or.jp/news/easy/" title="NEWS WEB EASY" text="NEWS WEB EASY" xmlUrl="https://rsshub.app/nhk/news_web_easy" />
+<outline title="端傳媒 Initium Media" htmlUrl="https://theinitium.com/newsfeed/" xmlUrl="http://feeds.initium.news/theinitium" type="rss" text="端傳媒 Initium Media" />
+<outline htmlUrl="https://www.businessinsider.jp" title="Business Insider Japan" text="Business Insider Japan" xmlUrl="https://www.businessinsider.jp/feed/index.xml" type="rss" />
+<outline htmlUrl="http://www.bbcchinese.com" xmlUrl="http://feeds.bbci.co.uk/zhongwen/trad/rss.xml" text="BBC Chinese - 主頁" title="BBC Chinese - 主頁" type="rss" />
+<outline text="知乎每日精选" type="rss" xmlUrl="https://www.zhihu.com/rss" title="知乎每日精选" htmlUrl="http://www.zhihu.com" />
+<outline text="华尔街日报" xmlUrl="https://cn.wsj.com/zh-hans/rss" title="华尔街日报" type="rss" htmlUrl="https://cn.wsj.com" />
+<outline text="iDaily 每日环球视野" title="iDaily 每日环球视野" type="rss" xmlUrl="https://rsshub.app/idaily/today" htmlUrl="https://docs.rsshub.app" />
+<outline title="-ZAKER新闻" text="-ZAKER新闻" htmlUrl="http://www.myzaker.com/source/12291" xmlUrl="https://rsshub.app/zaker/source/12291" type="rss" />
+<outline type="rss" title="抽屉新热榜" xmlUrl="https://rsshub.app/chouti/hot" text="抽屉新热榜" htmlUrl="https://m.chouti.com/all/hot" />
+<outline type="rss" htmlUrl="https://www.coolapk.com/" title="历史头条" xmlUrl="https://rsshub.app/coolapk/toutiao" text="历史头条" />
+<outline xmlUrl="http://www.qdaily.com/feed.xml" htmlUrl="http://www.qdaily.com" type="rss" text="好奇心日报" title="好奇心日报" />
+<outline type="rss" title="资讯 | 机核 GCORES" xmlUrl="https://rsshub.app/gcores/category/news" text="资讯 | 机核 GCORES" htmlUrl="https://www.gcores.com/news" />
+<outline type="rss" xmlUrl="https://rsshub.app/qutoutiao/category/1" title="趣头条" text="趣头条" htmlUrl="http://home.qutoutiao.net" />
+<outline text="晚点LatePost-最新报道" type="rss" htmlUrl="https://www.latepost.com" xmlUrl="https://rsshub.app/latepost" title="晚点LatePost-最新报道" />
+<outline type="rss" text="财新网 - 首页" htmlUrl="http://www.caixin.com/" xmlUrl="https://rsshub.app/caixin/article" title="财新网 - 首页" />
+<outline htmlUrl="https://www.asahi.com/area/tokyo" xmlUrl="https://rsshub.app/asahi/area/tokyo" title="地域 - 東京：朝日新聞デジタル" text="地域 - 東京：朝日新聞デジタル" type="rss" />
+<outline text="多维新闻网 - 要闻" htmlUrl="https://www.dwnews.com" xmlUrl="https://rsshub.app/dwnews/yaowen/" type="rss" title="多维新闻网 - 要闻" />
+<outline type="rss" xmlUrl="https://rsshub.app/kaopunews/:language?" text="靠谱新闻" title="靠谱新闻" htmlUrl="https://kaopu.news/index.html" />
+<outline htmlUrl="https://www.digitaling.com" title="数英网 DIGITALING" text="数英网 DIGITALING" xmlUrl="https://www.digitaling.com/rss" type="rss" />
+<outline xmlUrl="https://www.pingwest.com/feed/all" text="品玩" title="品玩" htmlUrl="https://www.pingwest.com" type="rss" />
+<outline htmlUrl="https://cn.derekyang.us" title="美国日记" text="美国日记" xmlUrl="https://cn.derekyang.us/feed" type="rss" />
+</outline>
+<outline title="深度" text="深度">
+<outline xmlUrl="https://rss.huxiu.com/" htmlUrl="https://www.huxiu.com" title="虎嗅" text="虎嗅" type="rss" />
+<outline title="BIE 别的" xmlUrl="https://www.biede.com/feed/" text="BIE 别的" type="rss" htmlUrl="https://www.biede.com" />
+<outline text="好奇心日报" htmlUrl="http://www.qdaily.com" title="好奇心日报" xmlUrl="http://www.qdaily.com/feed.xml" type="rss" />
+<outline htmlUrl="https://sspai.com" xmlUrl="https://sspai.com/feed" text="少数派" type="rss" title="少数派" />
+<outline text="腾讯大数据" xmlUrl="https://rsshub.app/tencent/bigdata" title="腾讯大数据" type="rss" htmlUrl="http://bigdata.qq.com/reports" />
+</outline>
+<outline title="游戏" text="游戏">
+<outline xmlUrl="https://rsshub.app/nintendo/eshop/jp" htmlUrl="https://www.nintendo.co.jp/software/switch/index.html" title="Nintendo eShop (日服) 新游戏" type="rss" text="Nintendo eShop (日服) 新游戏" />
+<outline type="rss" xmlUrl="https://rsshub.app/arknights/news" text="《明日方舟》游戏公告与新闻" title="《明日方舟》游戏公告与新闻" htmlUrl="https://ak.hypergryph.com/news.html" />
+<outline type="rss" text="游戏动力资讯 全部" title="游戏动力资讯 全部" htmlUrl="https://vgn.cn/news" xmlUrl="https://rsshub.app/vgn" />
+<outline type="rss" title="游研社-全部文章" htmlUrl="https://www.yystv.cn/docs" xmlUrl="https://rsshub.app/yystv/docs" text="游研社-全部文章" />
+<outline htmlUrl="https://www.gcores.com/news" title="资讯 | 机核 GCORES" type="rss" xmlUrl="https://rsshub.app/gcores/category/news" text="资讯 | 机核 GCORES" />
+<outline type="rss" text="ACG批评" htmlUrl="http://www.acgpiping.net" xmlUrl="http://www.acgpiping.net/feed/" title="ACG批评" />
+<outline title="触乐" text="触乐" htmlUrl="http://www.chuapp.com" type="rss" xmlUrl="http://www.chuapp.com/feed" />
+<outline xmlUrl="http://www.gamelook.com.cn/feed" htmlUrl="http://www.gamelook.com.cn" type="rss" title="游戏大观 | GameLook.com.cn" text="游戏大观 | GameLook.com.cn" />
+<outline xmlUrl="https://www.vgtime.com/rss.jhtml" text="游戏时光头条" title="游戏时光头条" type="rss" htmlUrl="https://www.vgtime.com" />
+</outline>
+<outline text="科技" title="科技">
+<outline text="数字尾巴" type="rss" htmlUrl="http://www.dgtle.com" xmlUrl="https://www.dgtle.com/rss/dgtle.xml" title="数字尾巴" />
+<outline title="利器" text="利器" xmlUrl="http://liqi.io/feed/" htmlUrl="http://liqi.io" type="rss" />
+<outline type="rss" text="极客公园" htmlUrl="http://www.geekpark.net" title="极客公园" xmlUrl="http://www.geekpark.net/rss" />
+<outline title="爱范儿" text="爱范儿" xmlUrl="https://www.ifanr.com/feed" type="rss" htmlUrl="https://www.ifanr.com?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=" />
+<outline type="rss" htmlUrl="https://hellogithub.com" title="HelloGitHub 月刊" text="HelloGitHub 月刊" xmlUrl="https://hellogithub.com/rss" />
+<outline htmlUrl="https://sspai.com" type="rss" text="少数派" title="少数派" xmlUrl="https://sspai.com/feed" />
+<outline text="FreeBuf网络安全行业门户" xmlUrl="https://www.freebuf.com/feed" htmlUrl="https://www.freebuf.com" title="FreeBuf网络安全行业门户" type="rss" />
+<outline title="一只土贼" text="一只土贼" type="rss" htmlUrl="http://www.tuzei8.com" xmlUrl="http://www.tuzei8.com/rss/index.rss" />
+<outline type="rss" text="历史头条" htmlUrl="https://www.coolapk.com/" title="历史头条" xmlUrl="https://rsshub.app/coolapk/toutiao" />
+<outline htmlUrl="https://www.guokr.com/scientific" title="果壳网 科学人" xmlUrl="https://rsshub.app/guokr/scientific" type="rss" text="果壳网 科学人" />
+<outline title="数英网-最新文章" text="数英网-最新文章" type="rss" htmlUrl="https://www.digitaling.com" xmlUrl="https://rsshub.app/digitaling/index" />
+<outline text="安全客-有思想的安全新媒体" type="rss" htmlUrl="https://www.anquanke.com" xmlUrl="https://api.anquanke.com/data/v1/rss" title="安全客-有思想的安全新媒体" />
+<outline title="技术头条" text="技术头条" htmlUrl="http://blogread.cn/news/newest.php" type="rss" xmlUrl="https://rsshub.app/blogread/newest" />
+<outline htmlUrl="https://toutiao.io" title="开发者头条:星期二 2021-11-23" type="rss" xmlUrl="https://rsshub.app/toutiao/today" text="开发者头条:星期二 2021-11-23" />
+<outline text="平安银河实验室" type="rss" xmlUrl="https://rsshub.app/galaxylab" title="平安银河实验室" htmlUrl="http://galaxylab.com.cn/" />
+<outline xmlUrl="https://rsshub.app/tencent/bigdata" title="腾讯大数据" type="rss" text="腾讯大数据" htmlUrl="http://bigdata.qq.com/reports" />
+<outline xmlUrl="https://coolshell.cn/feed" htmlUrl="https://coolshell.cn" text="酷 壳 – CoolShell" type="rss" title="酷 壳 – CoolShell" />
+<outline text="苹果fans博客" xmlUrl="http://www.mac52ipod.cn/feed.php" title="苹果fans博客" htmlUrl="http://www.mac52ipod.cn/index.php" type="rss" />
+</outline>
+</body>
 </opml>
